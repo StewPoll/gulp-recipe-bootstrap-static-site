@@ -39,7 +39,7 @@ TOC
 Specifications:
 =======
 
-##Speeders:
+## Speeders:
 
 This project includes some platforms,libs and frameworks to **make you work faster**.
 
@@ -47,30 +47,30 @@ Is important for you have some layers who can help you to increase your producti
 
 There's the list of speeders included in this project:
 
-###Bootstrap
+### Bootstrap
 Bootstrap is usefull for creating UI in a **simple and fast way**.  
 It uses most of common data UI structure ready out-of-the-box, well written and reliable. That's why I've decided to put inside this project.
 
 Use the official [knowledge base](http://getbootstrap.com/) to understand how it works and how to use it.
 
-###Twig
+### Twig
 Twig is a template engine who can use many abstraction layers and so allows you to compile templates also with complex structure like: templating, inheritance, imports, data injections...
 It's usefull in a project like this because allows to have **many pages with the same structure** (generally header, footer, sidebars...)    
 
 Take a look in the [Twig official repository](http://twig.sensiolabs.org/)
 
-###SASS (or Scss)
+### SASS (or Scss)
 With Sass you can write CSS using cool functions like calculations, variables and hineritances melted up with a simple writing way.
 Sass allows you to **save a large amount of time**, especially when you use complex templates or a personalized graphics.  
 
 [Learn the base of Sass](http://sass-lang.com/guide)
 
-###Browser Syncronized
+### Browser Syncronized
 After you start and run this project you can use the auto-sync or manual sync of browser-sync package. This package allow you to writing code on your IDE and **see in real-time what happen to our html without reload** the entire page.
 
 [See for info and specs](http://www.browsersync.io/)
 
-###Automatic sitemap generation
+### Automatic sitemap generation
 
 Sitemaps are **mandatory for a correct Web development**. I've added an automatic sitemapper generator. This generator is triggered only with the distribuite version so you must use the  ```
 gulp``` command for create it. After that you can found your version in the */dist* folder ready to upload.
@@ -78,11 +78,11 @@ gulp``` command for create it. After that you can found your version in the */di
 [Here for how-to-customize ](https://github.com/pgilad/gulp-sitemap)
 
 
-##Optimizers
+## Optimizers
 
 Where speeders is a set of frameworks for save your time and be more faster an conentrated on your front-end works, the optimizers are and incredible set of plugin for doing a very important phase of your work: **raise your quality level**.
 
-###Css optimizing
+### Css optimizing
 
 Optimize your Css *makes your website faster*. This Recipe contain 4 strategies for doing this.
 
